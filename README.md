@@ -14,7 +14,7 @@ performance using Power BI.
 - Top 10 selling products (Bar Chart)
 - Sales by category (Donut Chart)
 - Regional performance (Bar Chart)
-- KPI Cards (Total Revenue, Profit Margin, Total Orders)
+- KPI Cards (Total Revenue, Profit Margin, Top Sales, Top Profits)
 - Interactive slicers (Year, Region)
 
 ## 💡 Key Insights
